@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-color: black; 
+}
+
+h1 {
+  color: rgb(0, 78, 194)
+}
+
+#btn {
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  border: 1px solid black;
+  background-color: rgba(5, 255, 213, 0.884);
+  color: rgb(0, 0, 0);
+}
+
+#result {
+  background-color: rgb(215, 255, 196);
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#frame {
+  background-color: rgb(250, 207, 150);
+  width: 370px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 30px;
+  margin-top: 30px;
+}
+
+#num {
+  font-size: 15px;
+  text-align: center;
+}
